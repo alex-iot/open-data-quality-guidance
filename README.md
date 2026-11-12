@@ -1,6 +1,6 @@
 # Open data best practice for portals and AI use
 
-Version 0.1, draft for comment · 11 November 2026
+Version 0.1, draft for comment · 12 November 2026
 
 A dataset on an open data portal is only useful if its data and its metadata are true, and true to each other. This repository holds a first draft of best practice guidance on that subject: where portals fall short today, ten principles that would close the gaps, and three levels that show whether a dataset states what it promises, keeps to it, and whether it continues to do so over time. A rule reference and a worked example in DCAT-AP give the detail.
 
@@ -55,7 +55,9 @@ Each release is numbered and listed in the [change log](CHANGELOG.md).
 
 ## Licence
 
-The documents, figures and example records are licensed under CC BY 4.0. See [LICENSE.md](LICENSE.md).
+The documents, figures and example records are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0). You may share and adapt them for any purpose, including commercially, as long as you give appropriate credit, provide a link to the licence and indicate if changes were made. The full legal text is in [LICENSE](LICENSE).
+
+Suggested credit: "Alex Gluhak, Open data best practice for portals and AI use, version 0.1, 2026", with a link to this repository.
 
 ## Author
 

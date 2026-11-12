@@ -1,6 +1,6 @@
 # Open data best practice DCAT-AP worked example for portals and AI use
 
-Version 0.1, draft for comment · 11 November 2026 · Alex Gluhak
+Version 0.1, draft for comment · 12 November 2026 · Alex Gluhak
 
 ## About this document
 

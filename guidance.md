@@ -1,6 +1,6 @@
 # Open data best practice guidance for portals and AI use
 
-Version 0.1, draft for comment · 11 November 2026 · Alex Gluhak
+Version 0.1, draft for comment · 12 November 2026 · Alex Gluhak
 
 ## Why this guidance
 
@@ -118,7 +118,7 @@ A dataset entry is only as good as its last update, so ten rules keep data and m
 | 9 | Keep the feed and the harvested copies in step: the portal's feed carries every field the entry shows, and the national catalogue and data.europa.eu show the same licence, dates, frequency, contact and link to the data; trace one record per chain at least once a year and after any platform change | Portal check | Own statement |
 | 10 | For dynamic data, watch the feed and the sensors behind it, and publish outages | Kept consistent | Outside norm |
 
-## What comes next
+## Companion documents
 
 This guidance uses plain words and no rule numbers. Two companion documents give the detail: a [rule reference](rule-reference.md) that gives every rule an identifier, its basis in law or DCAT-AP and a test, and a [worked example in DCAT-AP](dcat-ap-worked-example.md) that shows how the rules read a real catalogue record. Both are drafts for comment, like this guidance, and the detailed checks in them are the part most open to debate.
 

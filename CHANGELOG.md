@@ -2,7 +2,7 @@
 
 ## 0.1, draft for comment
 
-Document dated 11 November 2026.
+Documents dated 12 November 2026.
 
 - First draft of the guidance: ten principles, three levels, what a good dataset entry looks like, portal checks and maintenance rules.
 - Three levels a dataset earns by evidence (Stated, Consistent, Kept consistent), from a starting point of Not stated. The check period for level 3 is a starting value and has not yet been tested in practice.
